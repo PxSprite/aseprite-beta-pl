@@ -6,7 +6,8 @@ Unpack data and extensions folders from the archive into the Aseprite root folde
 
 Switch Language:
 Go to Edit -> Preferences on the General tab switch the language to pl.
-__________________________________________________________________________________________-
+__________________________________________________________________________________________
+
 Polskie Tłumaczenie programu Aseprite
 
 Instalacja:
