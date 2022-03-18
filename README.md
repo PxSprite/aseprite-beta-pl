@@ -1,15 +1,15 @@
 # aseprite-pl
 Polish Language for the Aseprite graphic editor.
-Installation
+Installation:
 
 Unpack data and extensions folders from the archive into the Aseprite root folder, replacing the files.
-Switch Language
 
+Switch Language:
 Go to Edit -> Preferences on the General tab switch the language to pl.
-
+__________________________________________________________________________________________-
 Polskie Tłumaczenie programu Aseprite
-Instalacja
 
+Instalacja:
 Wypakuj foldery data i extensions z archiwum do głównego katalogu Aseprite, zastępując pliki.
 
 Zmiana języka:
