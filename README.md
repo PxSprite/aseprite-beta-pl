@@ -19,3 +19,8 @@
 - Go to Edit -> Preferences -> General and switch the language form 'en' to 'pl'
 
 ![preview](https://user-images.githubusercontent.com/99153895/192118983-91d3a066-fb5a-4429-8b0b-0d7c6245d985.png)
+![Screenshot_20220925_173657](https://user-images.githubusercontent.com/99153895/192152044-dd6f8c24-1d42-400d-b920-efc960d4a674.png)
+
+> #JEST TO TŁUMACZENIE DO WERSJI BETA ASEPRITE! UPEWNIJ SIĘ, ŻE UŻYWASZ ODPOWIEDNIEJ WERSJI PROGRAMU!
+> Jeśli używasz **wersji STABLINEJ** zapraszam do: https://github.com/PxSprite/aseprite-stable-pl
+👻 ✨
