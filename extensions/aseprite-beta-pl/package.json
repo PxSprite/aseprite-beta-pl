@@ -1,0 +1,20 @@
+{
+  "name": "aseprite-beta-pl",
+  "displayName":"Polish Translation of Aseprite Beta",
+  "description": "",
+  "version": "1.3-beta21",
+  "author": {
+	"name": "PxSprite",
+    "email": "pyroghost@tuta.io",
+    "url": "https://github.com/PxSprite/aseprite-beta-pl"
+  },
+  "contributors": [ "PxSprite" ],
+  "publisher": "PxSprite",
+  "license": "gpl-3.0",
+  "categories": [ "Languages" ],
+  "contributes": {
+    "languages": [
+	  { "id": "pl", "path": "./pl.ini"}
+	]
+  }
+}
