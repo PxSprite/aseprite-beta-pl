@@ -24,7 +24,9 @@
     "languages": [
       {
         "id": "pl",
-        "path": "./pl.ini"
+        "path": "./pl.ini",
+        "englishName": "Polish",
+        "displayName": "polski"
       }
     ]
   }
