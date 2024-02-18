@@ -14,7 +14,7 @@
   "categories": [ "Languages" ],
   "contributes": {
     "languages": [
-	  { "id": "pl", "path": "./pl.ini"}
+	  { "id": "Polski", "path": "./pl.ini"}
 	]
   }
 }
